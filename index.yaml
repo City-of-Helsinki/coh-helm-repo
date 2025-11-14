@@ -3,7 +3,17 @@ entries:
   redis-cluster:
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2025-11-14T09:06:31.150504246Z"
+    created: "2025-11-14T11:04:04.712681505Z"
+    description: A highly available Redis cluster with Sentinel for automatic failover
+    digest: 358c3f008b27feca3cac03de69df0ad980f6e3a81c9878833b499ee0bb6aa4fd
+    name: redis-cluster
+    type: application
+    urls:
+    - https://City-of-Helsinki.github.io/coh-helm-repo/redis-cluster/redis-cluster-0.9.0.tgz
+    version: 0.9.0
+  - apiVersion: v2
+    appVersion: "7.0"
+    created: "2025-11-14T11:04:04.712003273Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: f975b8ebe47be3fdca0aec39be02941c9e6fe5b914113be06d1b07f6fb173902
     name: redis-cluster
@@ -13,7 +23,7 @@ entries:
     version: 0.8.2
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2025-11-14T09:06:31.149862402Z"
+    created: "2025-11-14T11:04:04.711252597Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: 2f390fc863d803e4ccd058c49d00c67ffd6e4d6370357c17dc559f1c2da8f22e
     name: redis-cluster
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://City-of-Helsinki.github.io/coh-helm-repo/redis-cluster/redis-cluster-0.7.0.tgz
     version: 0.7.0
-generated: "2025-11-14T09:06:31.149009745Z"
+generated: "2025-11-14T11:04:04.710408146Z"

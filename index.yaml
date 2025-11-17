@@ -3,7 +3,7 @@ entries:
   redis-cluster:
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2025-11-17T22:40:38.53331592Z"
+    created: "2025-11-17T23:50:35.043156483Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: b33c2b8f7257f084dbcdaf1fdf22943e7e3df806703acb512a9e0a83ddbe2650
     name: redis-cluster
@@ -13,9 +13,9 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2025-11-17T22:40:38.535088842Z"
+    created: "2025-11-17T23:50:35.04402326Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
-    digest: 5ec25d8ad0e6dae046e03c689a1de0fffa96daec5af961a2979cc3a204605094
+    digest: 50c7cb29b1970953055d6b674360a26e0814eb5007156b4ca620e109502f2c6f
     name: redis-cluster
     type: application
     urls:
@@ -23,7 +23,7 @@ entries:
     version: v1.0.0
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2025-11-17T22:40:38.531779174Z"
+    created: "2025-11-17T23:50:35.042501824Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: 5d7fbf1e73b7b763170be8bbf309c77fec34a40f5fe7e2e66fd3abafe10309ba
     name: redis-cluster
@@ -33,7 +33,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2025-11-17T22:40:38.530937534Z"
+    created: "2025-11-17T23:50:35.041827508Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: 358c3f008b27feca3cac03de69df0ad980f6e3a81c9878833b499ee0bb6aa4fd
     name: redis-cluster
@@ -43,7 +43,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2025-11-17T22:40:38.530263507Z"
+    created: "2025-11-17T23:50:35.041073783Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: f975b8ebe47be3fdca0aec39be02941c9e6fe5b914113be06d1b07f6fb173902
     name: redis-cluster
@@ -53,7 +53,7 @@ entries:
     version: 0.8.2
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2025-11-17T22:40:38.529588087Z"
+    created: "2025-11-17T23:50:35.040368329Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: 2f390fc863d803e4ccd058c49d00c67ffd6e4d6370357c17dc559f1c2da8f22e
     name: redis-cluster
@@ -61,4 +61,4 @@ entries:
     urls:
     - https://City-of-Helsinki.github.io/coh-helm-repo/redis-cluster/redis-cluster-0.7.0.tgz
     version: 0.7.0
-generated: "2025-11-17T22:40:38.528843388Z"
+generated: "2025-11-17T23:50:35.038813768Z"

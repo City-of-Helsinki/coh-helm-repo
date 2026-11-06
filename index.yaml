@@ -3,7 +3,7 @@ entries:
   helfi-proxy-nginx:
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.207904333Z"
+    created: "2026-11-06T10:38:31.616120924Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:    receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -15,7 +15,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.207301312Z"
+    created: "2026-11-06T10:38:31.615619388Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:    receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -27,7 +27,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.211559176Z"
+    created: "2026-11-06T10:38:31.618233467Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -39,7 +39,7 @@ entries:
     version: v1.0.14
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.211056044Z"
+    created: "2026-11-06T10:38:31.61787009Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -51,7 +51,7 @@ entries:
     version: v1.0.13
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.210440514Z"
+    created: "2026-11-06T10:38:31.617490718Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -63,7 +63,7 @@ entries:
     version: v1.0.12
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.209189354Z"
+    created: "2026-11-06T10:38:31.617167701Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -75,7 +75,7 @@ entries:
     version: v1.0.11
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.208763918Z"
+    created: "2026-11-06T10:38:31.616773748Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -87,7 +87,7 @@ entries:
     version: v1.0.10
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.214964937Z"
+    created: "2026-11-06T10:38:31.621592058Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -99,7 +99,7 @@ entries:
     version: v1.0.9
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.214461795Z"
+    created: "2026-11-06T10:38:31.621296983Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -111,7 +111,7 @@ entries:
     version: v1.0.8
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.214060485Z"
+    created: "2026-11-06T10:38:31.620993736Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -123,7 +123,7 @@ entries:
     version: v1.0.7
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.213622621Z"
+    created: "2026-11-06T10:38:31.62067099Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -135,7 +135,7 @@ entries:
     version: v1.0.6
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.213226358Z"
+    created: "2026-11-06T10:38:31.620368013Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -147,7 +147,7 @@ entries:
     version: v1.0.5
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.212841333Z"
+    created: "2026-11-06T10:38:31.620025467Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -159,7 +159,7 @@ entries:
     version: v1.0.4
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.212385642Z"
+    created: "2026-11-06T10:38:31.619601678Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -171,7 +171,7 @@ entries:
     version: v1.0.3
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.211993756Z"
+    created: "2026-11-06T10:38:31.619208346Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -183,7 +183,7 @@ entries:
     version: v1.0.2
   - apiVersion: v2
     appVersion: "1.26"
-    created: "2026-11-06T10:33:50.208308908Z"
+    created: "2026-11-06T10:38:31.616437411Z"
     description: 'Nginx proxy chart for hel.fi services. Supports two roles via .Values.type:   receiver   -
       helfi-nginx, serves Drupal compositing for a specific domain   dispatcher -
       thin router, owns the public route and fans out to receivers '
@@ -196,7 +196,7 @@ entries:
   mailpit-openshift:
   - apiVersion: v2
     appVersion: 1.30.0
-    created: "2026-11-06T10:33:50.217565023Z"
+    created: "2026-11-06T10:38:31.623370237Z"
     dependencies:
     - alias: mailpit
       name: mailpit
@@ -221,7 +221,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.30.0
-    created: "2026-11-06T10:33:50.219284383Z"
+    created: "2026-11-06T10:38:31.624961445Z"
     dependencies:
     - alias: mailpit
       name: mailpit
@@ -247,7 +247,7 @@ entries:
   nginx-standard:
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.250722735Z"
+    created: "2026-11-06T10:38:31.648992139Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: de1dd24e0c821d31b868df480f80f99a9d1bb8eec3adc2f7d322b279cde70f65
     name: nginx-standard
@@ -257,7 +257,7 @@ entries:
     version: v9.9.0
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.249462021Z"
+    created: "2026-11-06T10:38:31.648055467Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: c170251bd26e9cf0ea8b09ec75180a4a9e26087c2b86e05df5ee72ff470b5da1
     name: nginx-standard
@@ -267,7 +267,7 @@ entries:
     version: v8.2.0
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.247612055Z"
+    created: "2026-11-06T10:38:31.646525318Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: 35251b1f963aae63b4f5d7783290acad93ac3441d47414c032e4f98accc24fba
     name: nginx-standard
@@ -277,7 +277,7 @@ entries:
     version: v8.1.0
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.226118214Z"
+    created: "2026-11-06T10:38:31.630273028Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: 69aac68712bb44d0510b36bca9e02a441c65cba59ccfbf92dee1d82f71d5e9aa
     name: nginx-standard
@@ -287,7 +287,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.224572974Z"
+    created: "2026-11-06T10:38:31.629075864Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: 55061e7e594cfdeb84bfbb3cff26dbabf6aceb39cb388c52237e2954a83d96f6
     name: nginx-standard
@@ -297,7 +297,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.222902517Z"
+    created: "2026-11-06T10:38:31.6271881Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: 713a5aa43f3bc16d457443d91398e587837817685164fd87705d7bde8dc69250
     name: nginx-standard
@@ -307,7 +307,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.220969222Z"
+    created: "2026-11-06T10:38:31.626024136Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: e25db301c43ec4f9a7d6bbeb326de8d5be1fee30d6f40a8b448301f864010aae
     name: nginx-standard
@@ -317,7 +317,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.235570677Z"
+    created: "2026-11-06T10:38:31.636790753Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: fab17664f76ae91e13038befff39ef13d398b04c54097a6cd0bdcdcddd41fc70
     name: nginx-standard
@@ -327,7 +327,7 @@ entries:
     version: v1.0.13
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.233521454Z"
+    created: "2026-11-06T10:38:31.635750906Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: 7f3daceeb9be59e62c355b68c60a1d91fc2f6c2bb4e3e66f13a40b2a9f54ac1d
     name: nginx-standard
@@ -337,7 +337,7 @@ entries:
     version: v1.0.12
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.232236984Z"
+    created: "2026-11-06T10:38:31.634765942Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: a5ddd20fd608a41ce83c9fe55ba4e0012900c1ad446a1da569b1681ce8235326
     name: nginx-standard
@@ -347,7 +347,7 @@ entries:
     version: v1.0.11
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.230981378Z"
+    created: "2026-11-06T10:38:31.633751994Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: dc7fdac0439c328d365e280555203ce1c694dcde518aef26a6a47844c4615124
     name: nginx-standard
@@ -357,7 +357,7 @@ entries:
     version: v1.0.10
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.246540112Z"
+    created: "2026-11-06T10:38:31.645718392Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: 7b538294890169a73ea5a79a4c7e90e7aa7e39ed393772ee21fea2917f49eeef
     name: nginx-standard
@@ -367,7 +367,7 @@ entries:
     version: v1.0.9
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.245303184Z"
+    created: "2026-11-06T10:38:31.644746868Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: 12a0fc4c3207c8e4ef118bfeb5496f9e84be42621791dfc1f17ab1b99a395136
     name: nginx-standard
@@ -377,7 +377,7 @@ entries:
     version: v1.0.8
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.244007517Z"
+    created: "2026-11-06T10:38:31.643751779Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: 0e3079750246ef38c23298a2e7705bb6328f9f39af75bc9e540326b1b437076d
     name: nginx-standard
@@ -387,7 +387,7 @@ entries:
     version: v1.0.7
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.242649978Z"
+    created: "2026-11-06T10:38:31.64246559Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: f63f96d0e3a0b0a38b19dc6f4b3bb63866dc2a9ad37d596462aa5877449fd9c6
     name: nginx-standard
@@ -397,7 +397,7 @@ entries:
     version: v1.0.6
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.240713614Z"
+    created: "2026-11-06T10:38:31.641276489Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: b645abf945b147c3769a75d0fd9c6e513737df86c6a699f8781d3d1bfc6742ea
     name: nginx-standard
@@ -407,7 +407,7 @@ entries:
     version: v1.0.5
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.239427161Z"
+    created: "2026-11-06T10:38:31.64034803Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: 4892d5d8920d2a3b37af96a59a76ef08e417d9112ed7267338aa353ead79b7e6
     name: nginx-standard
@@ -417,7 +417,7 @@ entries:
     version: v1.0.4
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.238192877Z"
+    created: "2026-11-06T10:38:31.639403537Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: 87744e7a8f9ef345fe05e36f302d861cefa294fecd61e5fbe5abea4a030b4cfe
     name: nginx-standard
@@ -427,7 +427,7 @@ entries:
     version: v1.0.3
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.236955667Z"
+    created: "2026-11-06T10:38:31.638414637Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: 3aeb350d40dd2cfb56ce0395fcb33314f4ba590d898067e470f2ca6b7f547447
     name: nginx-standard
@@ -437,7 +437,7 @@ entries:
     version: v1.0.2
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.229701605Z"
+    created: "2026-11-06T10:38:31.632171358Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: 35fc5e9ec72462385b3bb920296db25b9c05183ee5b4d8140bd5615e79c7e56a
     name: nginx-standard
@@ -447,7 +447,7 @@ entries:
     version: v1.0.1
   - apiVersion: v2
     appVersion: "1.24"
-    created: "2026-11-06T10:33:50.228278147Z"
+    created: "2026-11-06T10:38:31.631245914Z"
     description: Standardized NGINX deployment for OpenShift platform
     digest: a5d64df6134ab0e099325c910b2029522eae07ea2b970847817ec82d6abca10b
     name: nginx-standard
@@ -458,7 +458,7 @@ entries:
   redis-cluster:
   - apiVersion: v2
     appVersion: 7.2.11
-    created: "2026-11-06T10:33:50.254011841Z"
+    created: "2026-11-06T10:38:31.651407618Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: bfd919d241a50e909f475140f9a3997f4fba6f2dd7241cf9f4cb6496d4812c22
     name: redis-cluster
@@ -468,7 +468,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 7.2.11
-    created: "2026-11-06T10:33:50.253255501Z"
+    created: "2026-11-06T10:38:31.650853644Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: ec913647fe7df59250e9cbc9862977b9ac030efbc887f832e4c2932cb2bf59a7
     name: redis-cluster
@@ -478,7 +478,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 7.2.11
-    created: "2026-11-06T10:33:50.256726344Z"
+    created: "2026-11-06T10:38:31.653749868Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: 5d1a4e703507257e40aaa3d9e04ee4f537fd4ca9dd8c58f3513929de1ae98548
     name: redis-cluster
@@ -488,7 +488,7 @@ entries:
     version: v1.0.2
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2026-11-06T10:33:50.256041831Z"
+    created: "2026-11-06T10:38:31.653281111Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: 79c22ac3e3d52dc75f0fe76d001c25b40fa6273e0fd3c92083c3a01c12e9a0b6
     name: redis-cluster
@@ -498,7 +498,7 @@ entries:
     version: v1.0.1
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2026-11-06T10:33:50.255031359Z"
+    created: "2026-11-06T10:38:31.65265631Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: ea982ec1ed452eb7963ed1df1aaf61105dc3bf2ddf3763b9587101140937ee48
     name: redis-cluster
@@ -508,7 +508,7 @@ entries:
     version: v1.0.0
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2026-11-06T10:33:50.252550667Z"
+    created: "2026-11-06T10:38:31.650329083Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: 5d7fbf1e73b7b763170be8bbf309c77fec34a40f5fe7e2e66fd3abafe10309ba
     name: redis-cluster
@@ -518,7 +518,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2026-11-06T10:33:50.252088516Z"
+    created: "2026-11-06T10:38:31.649991034Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: 358c3f008b27feca3cac03de69df0ad980f6e3a81c9878833b499ee0bb6aa4fd
     name: redis-cluster
@@ -528,7 +528,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2026-11-06T10:33:50.251616681Z"
+    created: "2026-11-06T10:38:31.649641597Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: f975b8ebe47be3fdca0aec39be02941c9e6fe5b914113be06d1b07f6fb173902
     name: redis-cluster
@@ -538,7 +538,7 @@ entries:
     version: 0.8.2
   - apiVersion: v2
     appVersion: "7.0"
-    created: "2026-11-06T10:33:50.251165397Z"
+    created: "2026-11-06T10:38:31.649308245Z"
     description: A highly available Redis cluster with Sentinel for automatic failover
     digest: 2f390fc863d803e4ccd058c49d00c67ffd6e4d6370357c17dc559f1c2da8f22e
     name: redis-cluster
@@ -549,7 +549,17 @@ entries:
   varnish-drupal:
   - apiVersion: v2
     appVersion: stable-6.0
-    created: "2026-11-06T10:33:50.258759232Z"
+    created: "2026-11-06T10:38:31.655698203Z"
+    description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
+    digest: 64768b6830ea189c820c953ac97b838af0fbeabfc2a188877c3b9d02ef350ef1
+    name: varnish-drupal
+    type: application
+    urls:
+    - https://City-of-Helsinki.github.io/coh-helm-repo/varnish-drupal/varnish-drupal-1.3.0.tgz
+    version: 1.3.0
+  - apiVersion: v2
+    appVersion: stable-6.0
+    created: "2026-11-06T10:38:31.655276388Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: 84228c9e4cd21f9e63e5f918139780df84593ef07e258301fd4930560e5a1c71
     name: varnish-drupal
@@ -559,7 +569,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: stable-6.0
-    created: "2026-11-06T10:33:50.258197152Z"
+    created: "2026-11-06T10:38:31.654858909Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: 27128baf0e52916c30304192174cf5c43077cade0870338d1745d72bc63d7586
     name: varnish-drupal
@@ -569,7 +579,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: stable-4.0
-    created: "2026-11-06T10:33:50.257669594Z"
+    created: "2026-11-06T10:38:31.654456733Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: 96ce24d5d00254c15e316dd22fc83ee0edc8a0b90d3317270e2dd38e348b48ac
     name: varnish-drupal
@@ -579,7 +589,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: stable-4.0
-    created: "2026-11-06T10:33:50.261161402Z"
+    created: "2026-11-06T10:38:31.657548597Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: f7bd01053c3782f0e67447aeeaa0eb3e5d6c808f5d65a765f6d464f0604fc862
     name: varnish-drupal
@@ -589,7 +599,7 @@ entries:
     version: v1.0.11
   - apiVersion: v2
     appVersion: stable-4.0
-    created: "2026-11-06T10:33:50.260046817Z"
+    created: "2026-11-06T10:38:31.657015408Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: bca8007a3b6fc4a3f2f6f89d532977877e2b1f034bf483a54d5c1afbe8cbdbef
     name: varnish-drupal
@@ -599,7 +609,7 @@ entries:
     version: v1.0.10
   - apiVersion: v2
     appVersion: stable-4.0
-    created: "2026-11-06T10:33:50.257185149Z"
+    created: "2026-11-06T10:38:31.65411666Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: 59824d32e141bbea25d637f59eb35fa1330b47a8899d2cdaa0d0b102f4b4cffb
     name: varnish-drupal
@@ -609,7 +619,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: stable-4.0
-    created: "2026-11-06T10:33:50.264626621Z"
+    created: "2026-11-06T10:38:31.660141174Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: 18b673e5b2130c3d87984c0930605bc22a058df69f8413a68c40df0099d95be2
     name: varnish-drupal
@@ -619,7 +629,7 @@ entries:
     version: v1.0.9
   - apiVersion: v2
     appVersion: stable-4.0
-    created: "2026-11-06T10:33:50.264198381Z"
+    created: "2026-11-06T10:38:31.659802684Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: 7bfded0e9df162863a90023db970b24fcea3fd45603426289091e0911e077448
     name: varnish-drupal
@@ -629,7 +639,7 @@ entries:
     version: v1.0.8
   - apiVersion: v2
     appVersion: stable-4.0
-    created: "2026-11-06T10:33:50.263788859Z"
+    created: "2026-11-06T10:38:31.659499467Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: 2b49219ea2b2d4ce856c71b1b8f334fdea53e0063277ed0f446c1e01cb52ed4b
     name: varnish-drupal
@@ -639,7 +649,7 @@ entries:
     version: v1.0.7
   - apiVersion: v2
     appVersion: stable-4.0
-    created: "2026-11-06T10:33:50.263365456Z"
+    created: "2026-11-06T10:38:31.659193125Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: ac002bd4fd174ddf073613b1b102bdcc218939acf7ad70a6611efed152b79db9
     name: varnish-drupal
@@ -649,7 +659,7 @@ entries:
     version: v1.0.6
   - apiVersion: v2
     appVersion: stable-4.0
-    created: "2026-11-06T10:33:50.262949304Z"
+    created: "2026-11-06T10:38:31.658874435Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: 67c29b290ec643a75df7976a2e751e31c18f61d1fb9b5070f00c5e5791aaaf80
     name: varnish-drupal
@@ -659,7 +669,7 @@ entries:
     version: v1.0.5
   - apiVersion: v2
     appVersion: stable-3.0
-    created: "2026-11-06T10:33:50.262515956Z"
+    created: "2026-11-06T10:38:31.65854552Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: 1afec7cdcc2d3b422b74811c26a284d3222dca79e88e83e50e358ac4affabe96
     name: varnish-drupal
@@ -669,7 +679,7 @@ entries:
     version: v1.0.4
   - apiVersion: v2
     appVersion: stable-3.0
-    created: "2026-11-06T10:33:50.26209028Z"
+    created: "2026-11-06T10:38:31.658229193Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: f72727553976e13ecfe764bf817d8ea8edb684187571044c975d422e789586aa
     name: varnish-drupal
@@ -679,7 +689,7 @@ entries:
     version: v1.0.3
   - apiVersion: v2
     appVersion: stable-3.0
-    created: "2026-11-06T10:33:50.261634439Z"
+    created: "2026-11-06T10:38:31.657910863Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: 918b90a66aa514b03fc960e68dc1a8eb63bc602d9267c855a390faa7c34719df
     name: varnish-drupal
@@ -689,7 +699,7 @@ entries:
     version: v1.0.2
   - apiVersion: v2
     appVersion: stable-3.0
-    created: "2026-11-06T10:33:50.25956711Z"
+    created: "2026-11-06T10:38:31.656314522Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: 56f5095b37124d0ed72c046d9cc4554988e187a3ef5a6e405202ccd1efd97916
     name: varnish-drupal
@@ -699,7 +709,7 @@ entries:
     version: v1.0.1
   - apiVersion: v2
     appVersion: stable-3.0
-    created: "2026-11-06T10:33:50.259148073Z"
+    created: "2026-11-06T10:38:31.656005316Z"
     description: Varnish HTTP cache for Drupal on OpenShift (kube-httpcache)
     digest: 83009e9a78ba83b01466fe193b9748d1a4b0990ba65b48f378f63cf654aae06e
     name: varnish-drupal
@@ -707,4 +717,4 @@ entries:
     urls:
     - https://City-of-Helsinki.github.io/coh-helm-repo/varnish-drupal/varnish-drupal-v1.0.0.tgz
     version: v1.0.0
-generated: "2026-11-06T10:33:50.206528887Z"
+generated: "2026-11-06T10:38:31.61499687Z"
